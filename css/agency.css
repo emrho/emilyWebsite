@@ -25,6 +25,11 @@ a:hover {
   color: #fed136 !important;
 }
 
+
+  @media screen and (min-width: 0px) and (max-width: 720px) {
+  .mobile-hide{ display: none; }
+  }
+
 h1,
 h2,
 h3,
